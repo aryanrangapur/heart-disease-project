@@ -28,7 +28,7 @@ The dataset used in this project is available in the attached CSV file, named he
 1. **Clone the repository:**
 
    ```bash
-   !git clone https://github.com/your-username/heart-disease-classification.git
+   !git clone https://github.com/aryanrangapur/heart-disease-classification.git
    %cd heart-disease-classification
 2. **Install the required dependencies:**
 
