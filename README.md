@@ -28,16 +28,16 @@ The dataset used in this project is available in the attached CSV file, named he
 1. **Clone the repository:**
 
    ```bash
-   !git clone https://github.com/aryanrangapur/heart-disease-classification.git
+   git clone https://github.com/aryanrangapur/heart-disease-classification.git
    %cd heart-disease-classification
 2. **Install the required dependencies:**
 
    ```bash
-   !pip install -r requirements.txt
+   pip install -r requirements.txt
 3. **Open the Jupyter Notebook:**
 
    ```bash
-   !jupyter notebook heart_disease_classification.ipynb
+   jupyter notebook heart_disease_classification.ipynb
 4. **Execute the cells in the notebook one by one to understand the project flow.**
 
    # Results
