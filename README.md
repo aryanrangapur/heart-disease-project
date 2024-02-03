@@ -25,11 +25,12 @@ The dataset used in this project is available in the attached CSV file, named he
 
 ## Usage
 
-1. **Clone the repository:**
+1. **Clone the repository:** (in cmd)
 
    ```bash
    git clone https://github.com/aryanrangapur/heart-disease-classification.git
-   %cd heart-disease-classification
+   
+   cd heart-disease-classification
 2. **Install the required dependencies:**
 
    ```bash
